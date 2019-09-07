@@ -1,0 +1,46 @@
+.upper-bar .upper-info span p:hover,
+.upper-bar .sochial-media ul li a:hover,
+.navbar-light .navbar-brand h1,
+.navbar-light .navbar-brand:hover h1,
+ .navbar-light .navbar-nav .active > .nav-link,
+ .navbar-light .navbar-nav .nav-link:hover,
+ .slider #main-carousel .carousel-inner .carousel-item h2 span,
+ .our-features .feat span i,
+ .our-features .feat a,
+ .about-us .text-content h2,
+ .what-we-do h2,
+ .What-Our-Client-Says h2 span,
+ .What-Our-Client-Says .our-client .manager-man h4,
+ footer ul li a:hover,
+ .copyright .team span:hover,
+ .copyright .copyrighting a
+  {
+
+      color: #1ABAC8;
+
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link:hover,
+.our-features .feat a::after,
+.about-us .text-content .right-icon::before,
+.about-us .text-content .btn-primary,
+.about-us .text-content .btn:hover,
+.what-we-do .out-round:hover
+ {
+
+      border-bottom: 5px solid #1ABAC8;
+
+}
+
+.slider #main-carousel .carousel-inner .carousel-item button.butt-one:hover,
+.slider #main-carousel .carousel-inner .carousel-item button.butt-two,
+.about-us .text-content .btn-primary,
+.what-we-do .out-round .overlay,
+.what-we-do .out-round:hover .center-round,
+.option-box  .icon
+{
+
+      background-color: #1ABAC8;
+
+}
